@@ -49,7 +49,7 @@ TXS0102DCU|U3|Package_SO:VSSOP-8_2.3x2mm_P0.5mm|C53434
 - 1 x Barrel Jack Adapter DS-210 (5,5mm / 2,1mm) (https://www.ebay.de/itm/182379482999)
 
 ## Wiring diagram
-- https://github.com/Hasenpups/WLED_Mini_Controller_Public/blob/main/WLED_Mini_Controller.pdf
+- https://github.com/Hasenpups/WLED_All-in-one_Controller/blob/main/WLED_All-in-one_Controller.pdf
 
 ## Software
 - WLED: https://github.com/Aircoookie/WLED/releases
