@@ -31,7 +31,7 @@ This board is designed to connect addressable LEDs/Neopixel strips and handle th
 - :heavy_exclamation_mark: Maximum 5A :heavy_exclamation_mark:
 
 ## BOM
-- 1 x WLED Mini Controller presoldered from https://jlcpcb.com/
+- 1 x WLED All-in-one Controller presoldered from https://jlcpcb.com/
 
 |Comment|Designator|Footprint|LCSC
 |---|---|---|---
