@@ -69,8 +69,8 @@ TXS0102DCU|U3|Package_SO:VSSOP-8_2.3x2mm_P0.5mm|C53434
 ## WLED configuration
 - OUT1 - IO2
 - OUT2 - IO14
-- digital input 1 - IO5
-- digital input 2 - IO4
+- digital input 1 (BUTTON) - IO5
+- digital input 2 (IR) - IO4
 
 ## Case
 <img src="./Images/IMG_8765.jpeg" width="50%" height="50%">
